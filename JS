@@ -6,7 +6,6 @@
 
 <script>
 document.getElementById("button").innerHTML = "output";
-document.getElementById("button").href = "https://www.facebook.com/phong.ho.39/";
 </script>
 
 
